@@ -1,0 +1,2 @@
+# EMDAPPS-DailyMoodz
+DailyMoodz App
